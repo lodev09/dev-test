@@ -1,2 +1,0 @@
-[alias]
-	deploy = subtree push --prefix dist origin
